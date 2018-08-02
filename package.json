@@ -20,6 +20,7 @@
   "author": "Matt-Jensen",
   "license": "MIT",
   "dependencies": {
+    "@grpc/proto-loader": "^0.3.0",
     "grpc": "^1.14.0-pre2",
     "napa": "^3.0.0",
     "pkg-dir": "^2.0.0"
